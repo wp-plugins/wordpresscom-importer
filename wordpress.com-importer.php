@@ -5,7 +5,7 @@ Plugin URI:
 Description: Import WordPress.com blog content to WordPress.
 Author: Prasath Nadarajah
 Author URI:
-Version: 0.1
+Version: 1.0
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
